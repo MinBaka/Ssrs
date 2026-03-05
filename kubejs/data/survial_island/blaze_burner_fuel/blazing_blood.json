@@ -1,0 +1,6 @@
+{
+  "fluid": "kubejs:blazing_blood",
+  "burnTime": 6,
+  "superHeat": true,
+  "amountConsumedPerTick" : 1
+}

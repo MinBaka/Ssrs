@@ -1,0 +1,7 @@
+{
+  "name": "create_armorer.attachment.grip_pipe.name",
+  "display": "create_armorer:grip_pipe_display",
+  "data": "create_armorer:grip_pipe_data",
+  "tooltip": "create_armorer.tooltip.attachment.grip_pipe",
+  "type": "grip"
+}

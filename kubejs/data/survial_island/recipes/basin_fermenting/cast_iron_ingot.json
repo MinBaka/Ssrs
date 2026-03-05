@@ -1,0 +1,15 @@
+{
+  "type": "createdieselgenerators:basin_fermenting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:semi_solid_steel"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "item": "createbigcannons:cast_iron_ingot"
+    }
+  ]
+}

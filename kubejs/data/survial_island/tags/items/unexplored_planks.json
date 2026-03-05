@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+      "regions_unexplored:alpha_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:brimwood_planks",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:willow_planks"
+    ]
+  }

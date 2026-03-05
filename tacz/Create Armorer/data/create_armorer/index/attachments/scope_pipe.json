@@ -1,0 +1,7 @@
+{
+  "name": "create_armorer.attachment.scope_pipe.name",
+  "display": "create_armorer:scope_pipe_display",
+  "data": "create_armorer:scope_pipe_data",
+  "tooltip": "create_armorer.tooltip.attachment.scope_pipe",
+  "type": "scope"
+}

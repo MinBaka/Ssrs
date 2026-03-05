@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:add",
+  "argument1": -1.3, // 大陆性，越小越稀疏
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": 0.75, // 大陆性，越小越平滑
+    "argument2": {
+      "type": "minecraft:shifted_noise",
+      "noise": "minecraft:continentalness",
+      "xz_scale": 1.25, // 噪音放大，越小岛越大，且岛间隔越远
+      "y_scale": 0,
+      "shift_x": "minecraft:shift_x",
+      "shift_y": 0,
+      "shift_z": "minecraft:shift_z"
+    }
+  }
+}

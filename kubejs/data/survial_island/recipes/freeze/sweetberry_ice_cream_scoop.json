@@ -1,0 +1,14 @@
+{
+  "type": "create_fluid:freeze",
+  "ingredients": [
+    {
+      "item": "fruitsdelight:sweetberry_jelly_block"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "alexscaves:sweetberry_ice_cream_scoop"
+    }
+  ]
+}

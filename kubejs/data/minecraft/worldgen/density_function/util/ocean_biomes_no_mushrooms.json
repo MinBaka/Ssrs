@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:range_choice",
+    "input": "minecraft:util/ocean_biomes",
+    "max_exclusive": 10,
+    "min_inclusive": -1.0,
+    "when_in_range": "minecraft:util/ocean_biomes",
+    "when_out_of_range": -1.0
+}

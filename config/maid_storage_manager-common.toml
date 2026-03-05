@@ -1,0 +1,31 @@
+#Enable debug box render
+debug_box = false
+#Enable ae2 support(Maid may pickup things from terminal)
+ae2_support = true
+#Speed when collecting requested list
+#Range: 0.0 ~ 3.0
+collect_speed = 0.5
+#Speed when working crafting
+#Range: 0.0 ~ 3.0
+crafting_speed = 0.5
+#Speed when viewing chests in spare time
+#Range: 0.0 ~ 3.0
+view_speed = 0.3
+#Speed when viewing chests in spare time
+#Range: 0.0 ~ 3.0
+view_change_speed = 0.5
+#Speed when placing items to chests
+#Range: 0.0 ~ 3.0
+place_speed = 0.5
+#Speed when following
+#Range: 0.0 ~ 3.0
+follow_speed = 0.5
+#Maximum times Maid will try to store items
+#Range: 0 ~ 999999
+max_store_tries = 3
+#Maximum tick Maid will try to perform craft action
+#Range: 0 ~ 9999999
+max_craft_tries = 600
+#Enable maid from visiting all storages.
+use_all_storage = false
+

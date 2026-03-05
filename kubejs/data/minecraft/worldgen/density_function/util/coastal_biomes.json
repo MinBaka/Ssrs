@@ -1,0 +1,5 @@
+{
+    "type": "minecraft:add",
+    "argument1": "minecraft:util/island_noise",
+    "argument2": -0.19
+}

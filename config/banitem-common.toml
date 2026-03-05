@@ -1,0 +1,7 @@
+
+[banitem]
+	#物品黑名单
+	itemBlacklist = []
+	#是否允许OP持有黑名单物品
+	allowOperatorBypass = true
+

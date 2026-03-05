@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "alexscaves:galena",
+		"count": 1
+	},
+	"result": {
+		"item": "alexscaves:energized_galena_neutral",
+		"count": 1
+	},
+	"energy": 5000,
+	"maxChargeRate": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:lapis_sheet"
+  },
+  "loops": 6,
+  "results": [
+    {
+      "chance": 16.0,
+      "item": "kubejs:creative_mechanism"
+    },
+    {
+      "chance": 84.0,
+      "item": "minecraft:dead_bush"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_creative_mechanism"
+        },
+        {
+          "tag": "survial_island:creative_motor_ingredients"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_creative_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "kubejs:incomplete_creative_mechanism"
+  }
+}

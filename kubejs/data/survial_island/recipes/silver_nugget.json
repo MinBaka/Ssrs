@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:silver_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "kubejs:silver_nugget"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 1200,
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "item": "ends_delight:dragon_leg"
+    },
+    {
+      "item": "ends_delight:dragon_tooth"
+    },
+    {
+      "item": "ends_delight:dragon_leg"
+    },
+    {
+      "item": "ends_delight:raw_dragon_meat"
+    },
+    {
+      "item": "ends_delight:raw_dragon_meat"
+    },
+    {
+      "item": "ends_delight:raw_dragon_meat"
+    }
+  ],
+  "result": {
+    "item": "kubejs:dragon_blood_bottle"
+  }
+}

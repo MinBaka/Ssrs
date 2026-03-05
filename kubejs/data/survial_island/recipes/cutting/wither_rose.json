@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "alexscaves:licowitch_radiant_essence"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "alexscaves:radiant_essence"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

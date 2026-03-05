@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#zhopo:has_structure/portal",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none", 
+  "start_pool": "hopo:portal",
+  "size": 4,  
+  "start_height": {
+    "absolute": -54
+  },
+  "max_distance_from_center": 117,
+  "use_expansion_hack": false
+}

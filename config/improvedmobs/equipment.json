@@ -1,0 +1,1040 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ae2:certus_quartz_axe": [
+      4503,
+      0.51635593
+    ],
+    "ae2:certus_quartz_sword": [
+      4590,
+      0.049
+    ],
+    "ae2:fluix_axe": [
+      3639,
+      1.6502495
+    ],
+    "ae2:fluix_sword": [
+      3731,
+      1.531011
+    ],
+    "ae2:nether_quartz_axe": [
+      4503,
+      0.51635593
+    ],
+    "ae2:nether_quartz_sword": [
+      4590,
+      0.049
+    ],
+    "alexsmobs:skelewag_sword": [
+      4314,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      4611,
+      0.0469
+    ],
+    "botania:crystal_bow": [
+      2280,
+      5.0117817
+    ],
+    "botania:elementium_axe": [
+      3704,
+      1.5659617
+    ],
+    "botania:elementium_sword": [
+      3791,
+      1.4534681
+    ],
+    "botania:ender_dagger": [
+      4898,
+      0.018199999
+    ],
+    "botania:livingwood_bow": [
+      2280,
+      5.0117817
+    ],
+    "botania:manasteel_axe": [
+      4418,
+      0.6416611
+    ],
+    "botania:manasteel_sword": [
+      4505,
+      0.5130528
+    ],
+    "botania:star_sword": [
+      1051,
+      7.5865693
+    ],
+    "botania:terra_axe": [
+      981,
+      7.7322817
+    ],
+    "botania:terra_sword": [
+      1051,
+      7.5865693
+    ],
+    "botania:thunder_sword": [
+      1051,
+      7.5865693
+    ],
+    "create:cardboard_sword": [
+      5015,
+      0.0064999997
+    ],
+    "create_ironworks:brass_axe": [
+      4520,
+      0.4871728
+    ],
+    "create_ironworks:brass_sword": [
+      4595,
+      0.048499998
+    ],
+    "create_ironworks:bronze_axe": [
+      4112,
+      1.0409521
+    ],
+    "create_ironworks:bronze_sword": [
+      4205,
+      0.9215584
+    ],
+    "create_ironworks:copper_axe": [
+      4684,
+      0.039599996
+    ],
+    "create_ironworks:copper_sword": [
+      4782,
+      0.0298
+    ],
+    "create_ironworks:steel_axe": [
+      2401,
+      4.751268
+    ],
+    "create_ironworks:steel_sword": [
+      2467,
+      4.607496
+    ],
+    "draconicevolution:chaotic_axe": [
+      4597,
+      0.048299998
+    ],
+    "draconicevolution:chaotic_bow": [
+      3282,
+      2.1169202
+    ],
+    "draconicevolution:chaotic_sword": [
+      4757,
+      0.0323
+    ],
+    "draconicevolution:draconic_axe": [
+      4889,
+      0.0191
+    ],
+    "draconicevolution:draconic_bow": [
+      3282,
+      2.1169202
+    ],
+    "draconicevolution:draconic_sword": [
+      4967,
+      0.011299999
+    ],
+    "draconicevolution:wyvern_axe": [
+      4851,
+      0.022899998
+    ],
+    "draconicevolution:wyvern_bow": [
+      3282,
+      2.1169202
+    ],
+    "draconicevolution:wyvern_sword": [
+      4939,
+      0.014099999
+    ],
+    "enderio:dark_steel_sword": [
+      1590,
+      6.463877
+    ],
+    "immersiveengineering:axe_steel": [
+      3821,
+      1.41476
+    ],
+    "immersiveengineering:sword_steel": [
+      3901,
+      1.3117309
+    ],
+    "mekanism:electric_bow": [
+      3280,
+      2.1195521
+    ],
+    "minecraft:bow": [
+      2512,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      2806,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      2275,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      2337,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      3480,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      4936,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      4999,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      4503,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      4590,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      3580,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      1439,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      1509,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      4530,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      3580,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      4706,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      4814,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      3380,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      2580,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      4890,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      4953,
+      0.0127
+    ],
+    "vampirism:basic_crossbow": [
+      2806,
+      3.826627
+    ],
+    "vampirism:basic_double_crossbow": [
+      2806,
+      3.826627
+    ],
+    "vampirism:basic_tech_crossbow": [
+      1876,
+      5.8658876
+    ],
+    "vampirism:enhanced_crossbow": [
+      1876,
+      5.8658876
+    ],
+    "vampirism:enhanced_double_crossbow": [
+      1876,
+      5.8658876
+    ],
+    "vampirism:enhanced_tech_crossbow": [
+      16,
+      9.744191
+    ],
+    "vampirism:heart_seeker_enhanced": [
+      2023,
+      5.5569534
+    ],
+    "vampirism:heart_seeker_normal": [
+      4172,
+      0.96397245
+    ],
+    "vampirism:heart_seeker_ultimate": [
+      721,
+      8.273644
+    ],
+    "vampirism:heart_striker_enhanced": [
+      1980,
+      5.647479
+    ],
+    "vampirism:heart_striker_normal": [
+      4161,
+      0.97809535
+    ],
+    "vampirism:heart_striker_ultimate": [
+      634,
+      8.454877
+    ],
+    "vampirism:hunter_axe_enhanced": [
+      2197,
+      5.1888037
+    ],
+    "vampirism:hunter_axe_normal": [
+      4425,
+      0.6319829
+    ],
+    "vampirism:hunter_axe_ultimate": [
+      1398,
+      6.8641124
+    ],
+    "vampirism:pitchfork": [
+      4503,
+      0.51635593
+    ],
+    "vampirism:stake": [
+      4975,
+      0.010499999
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      675,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      647,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      275,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      2883,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      2321,
+      0.6972618
+    ],
+    "apocalypse:midnight_steel_boots": [
+      1954,
+      1.1717362
+    ],
+    "botania:elementium_boots": [
+      1908,
+      1.2307714
+    ],
+    "botania:manasteel_boots": [
+      1922,
+      1.2127981
+    ],
+    "botania:manaweave_boots": [
+      2703,
+      0.0321
+    ],
+    "botania:terrasteel_boots": [
+      1043,
+      2.3585079
+    ],
+    "create:cardboard_boots": [
+      2807,
+      0.021699999
+    ],
+    "create:copper_diving_boots": [
+      2450,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      1389,
+      1.9030677
+    ],
+    "create_ironworks:brass_armor_boots": [
+      1799,
+      1.3709393
+    ],
+    "create_ironworks:bronze_armor_boots": [
+      1913,
+      1.2243518
+    ],
+    "create_ironworks:copper_armor_boots": [
+      2240,
+      0.8039249
+    ],
+    "create_ironworks:rose_quartz_armor_boots": [
+      1263,
+      2.0682645
+    ],
+    "create_ironworks:steel_armor_boots": [
+      688,
+      3.9786093
+    ],
+    "create_ironworks:sturdy_armor_boots": [
+      1585,
+      1.6476527
+    ],
+    "draconicadditions:infused_potato_boots": [
+      2304,
+      0.7199134
+    ],
+    "immersiveengineering:armor_faraday_boots": [
+      2821,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_boots": [
+      1671,
+      1.5361866
+    ],
+    "mekanism:free_runners": [
+      2394,
+      0.59678036
+    ],
+    "mekanism:free_runners_armored": [
+      2358,
+      0.64716274
+    ],
+    "mekanism:hazmat_boots": [
+      2394,
+      0.59678036
+    ],
+    "mekanism:mekasuit_boots": [
+      839,
+      3.5910394
+    ],
+    "minecraft:chainmail_boots": [
+      2432,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1516,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2498,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2184,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2780,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1389,
+      1.9030677
+    ],
+    "tconstruct:plate_boots": [
+      2394,
+      0.59678036
+    ],
+    "tconstruct:slime_boots": [
+      2394,
+      0.59678036
+    ],
+    "tconstruct:travelers_boots": [
+      2394,
+      0.59678036
+    ],
+    "vampirism:armor_of_swiftness_feet_enhanced": [
+      1924,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_feet_normal": [
+      2663,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_feet_ultimate": [
+      1189,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_feet_enhanced": [
+      859,
+      3.5333998
+    ],
+    "vampirism:hunter_coat_feet_normal": [
+      1695,
+      1.5051444
+    ],
+    "vampirism:hunter_coat_feet_ultimate": [
+      35,
+      5.413468
+    ],
+    "vampirism:vampire_clothing_boots": [
+      2648,
+      0.0376
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      733,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1968,
+      1.173019
+    ],
+    "apocalypse:midnight_steel_leggings": [
+      1969,
+      1.1717362
+    ],
+    "botania:elementium_leggings": [
+      1923,
+      1.2307714
+    ],
+    "botania:manasteel_leggings": [
+      1937,
+      1.2127981
+    ],
+    "botania:manaweave_leggings": [
+      2718,
+      0.0321
+    ],
+    "botania:terrasteel_leggings": [
+      1058,
+      2.3585079
+    ],
+    "create:cardboard_leggings": [
+      2822,
+      0.021699999
+    ],
+    "create_ironworks:brass_armor_leggings": [
+      1814,
+      1.3709393
+    ],
+    "create_ironworks:bronze_armor_leggings": [
+      1928,
+      1.2243518
+    ],
+    "create_ironworks:copper_armor_leggings": [
+      2255,
+      0.8039249
+    ],
+    "create_ironworks:rose_quartz_armor_leggings": [
+      1278,
+      2.0682645
+    ],
+    "create_ironworks:steel_armor_leggings": [
+      703,
+      3.9786093
+    ],
+    "create_ironworks:sturdy_armor_leggings": [
+      1600,
+      1.6476527
+    ],
+    "draconicadditions:infused_potato_legs": [
+      2319,
+      0.7199134
+    ],
+    "immersiveengineering:armor_faraday_leggings": [
+      2836,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_leggings": [
+      1686,
+      1.5361866
+    ],
+    "mekanism:hazmat_pants": [
+      2409,
+      0.59678036
+    ],
+    "mekanism:mekasuit_pants": [
+      854,
+      3.5910394
+    ],
+    "minecraft:chainmail_leggings": [
+      2447,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1531,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2513,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2199,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2795,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1404,
+      1.9030677
+    ],
+    "tconstruct:plate_leggings": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:slime_leggings": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:travelers_leggings": [
+      2409,
+      0.59678036
+    ],
+    "vampirism:armor_of_swiftness_legs_enhanced": [
+      1939,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_legs_normal": [
+      2678,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_legs_ultimate": [
+      1204,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_legs_enhanced": [
+      874,
+      3.5333998
+    ],
+    "vampirism:hunter_coat_legs_normal": [
+      1710,
+      1.5051444
+    ],
+    "vampirism:hunter_coat_legs_ultimate": [
+      50,
+      5.413468
+    ],
+    "vampirism:vampire_clothing_legs": [
+      2663,
+      0.0376
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      1757,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      1836,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      2184,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      2407,
+      0.59963983
+    ],
+    "apocalypse:midnight_steel_chestplate": [
+      1969,
+      1.1717362
+    ],
+    "botania:elementium_chestplate": [
+      1923,
+      1.2307714
+    ],
+    "botania:manasteel_chestplate": [
+      1937,
+      1.2127981
+    ],
+    "botania:manaweave_chestplate": [
+      2718,
+      0.0321
+    ],
+    "botania:terrasteel_chestplate": [
+      1058,
+      2.3585079
+    ],
+    "create:cardboard_chestplate": [
+      2822,
+      0.021699999
+    ],
+    "create:copper_backtank": [
+      2465,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      1404,
+      1.9030677
+    ],
+    "create_ironworks:brass_armor_chestplate": [
+      1814,
+      1.3709393
+    ],
+    "create_ironworks:bronze_armor_chestplate": [
+      1928,
+      1.2243518
+    ],
+    "create_ironworks:copper_armor_chestplate": [
+      2255,
+      0.8039249
+    ],
+    "create_ironworks:rose_quartz_armor_chestplate": [
+      1278,
+      2.0682645
+    ],
+    "create_ironworks:steel_armor_chestplate": [
+      703,
+      3.9786093
+    ],
+    "create_ironworks:sturdy_armor_chestplate": [
+      1600,
+      1.6476527
+    ],
+    "create_jetpack:jetpack": [
+      2465,
+      0.5113901
+    ],
+    "create_jetpack:netherite_jetpack": [
+      1404,
+      1.9030677
+    ],
+    "draconicadditions:infused_potato_chest": [
+      2319,
+      0.7199134
+    ],
+    "draconicevolution:chaotic_chestpiece": [
+      1156,
+      2.228941
+    ],
+    "draconicevolution:draconic_chestpiece": [
+      1156,
+      2.228941
+    ],
+    "draconicevolution:wyvern_chestpiece": [
+      1156,
+      2.228941
+    ],
+    "immersiveengineering:armor_faraday_chestplate": [
+      2836,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_chestplate": [
+      1686,
+      1.5361866
+    ],
+    "mekanism:hazmat_gown": [
+      2409,
+      0.59678036
+    ],
+    "mekanism:jetpack": [
+      2409,
+      0.59678036
+    ],
+    "mekanism:jetpack_armored": [
+      2175,
+      0.9074007
+    ],
+    "mekanism:mekasuit_bodyarmor": [
+      854,
+      3.5910394
+    ],
+    "mekanism:scuba_tank": [
+      2409,
+      0.59678036
+    ],
+    "minecraft:chainmail_chestplate": [
+      2447,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1531,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2513,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2199,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2795,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1404,
+      1.9030677
+    ],
+    "tconstruct:plate_chestplate": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:slime_chestplate": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:travelers_chestplate": [
+      2409,
+      0.59678036
+    ],
+    "vampirism:armor_of_swiftness_chest_enhanced": [
+      1939,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_chest_normal": [
+      2678,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_chest_ultimate": [
+      1204,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_chest_enhanced": [
+      874,
+      3.5333998
+    ],
+    "vampirism:hunter_coat_chest_normal": [
+      1710,
+      1.5051444
+    ],
+    "vampirism:hunter_coat_chest_ultimate": [
+      50,
+      5.413468
+    ],
+    "vampirism:vampire_cloak_black_blue": [
+      2663,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_black_red": [
+      2663,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_black_white": [
+      2663,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_red_black": [
+      2663,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_white_black": [
+      2663,
+      0.0376
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      2600,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      2294,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      2387,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      2285,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2600,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2571,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      2035,
+      1.0871058
+    ],
+    "apocalypse:bucket_helm": [
+      2199,
+      0.8764657
+    ],
+    "apocalypse:midnight_steel_helmet": [
+      1969,
+      1.1717362
+    ],
+    "botania:elementium_helmet": [
+      1923,
+      1.2307714
+    ],
+    "botania:manasteel_helmet": [
+      1937,
+      1.2127981
+    ],
+    "botania:manaweave_helmet": [
+      2718,
+      0.0321
+    ],
+    "botania:terrasteel_helmet": [
+      1058,
+      2.3585079
+    ],
+    "create:cardboard_helmet": [
+      2822,
+      0.021699999
+    ],
+    "create:copper_diving_helmet": [
+      2465,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      1404,
+      1.9030677
+    ],
+    "create_ironworks:brass_armor_helmet": [
+      1814,
+      1.3709393
+    ],
+    "create_ironworks:bronze_armor_helmet": [
+      1928,
+      1.2243518
+    ],
+    "create_ironworks:copper_armor_helmet": [
+      2255,
+      0.8039249
+    ],
+    "create_ironworks:rose_quartz_armor_helmet": [
+      1278,
+      2.0682645
+    ],
+    "create_ironworks:steel_armor_helmet": [
+      703,
+      3.9786093
+    ],
+    "create_ironworks:sturdy_armor_helmet": [
+      1600,
+      1.6476527
+    ],
+    "draconicadditions:infused_potato_helm": [
+      2319,
+      0.7199134
+    ],
+    "immersiveengineering:armor_faraday_helmet": [
+      2836,
+      0.020299999
+    ],
+    "immersiveengineering:armor_steel_helmet": [
+      1686,
+      1.5361866
+    ],
+    "mekanism:hazmat_mask": [
+      2409,
+      0.59678036
+    ],
+    "mekanism:mekasuit_helmet": [
+      854,
+      3.5910394
+    ],
+    "mekanism:scuba_mask": [
+      2409,
+      0.59678036
+    ],
+    "minecraft:chainmail_helmet": [
+      2447,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1531,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2513,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2199,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2795,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1404,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2143,
+      0.948558
+    ],
+    "tconstruct:plate_helmet": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:slime_helmet": [
+      2409,
+      0.59678036
+    ],
+    "tconstruct:travelers_helmet": [
+      2409,
+      0.59678036
+    ],
+    "vampirism:armor_of_swiftness_head_enhanced": [
+      1939,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_head_normal": [
+      2678,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_head_ultimate": [
+      1204,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_head_enhanced": [
+      874,
+      3.5333998
+    ],
+    "vampirism:hunter_coat_head_normal": [
+      1710,
+      1.5051444
+    ],
+    "vampirism:hunter_coat_head_ultimate": [
+      50,
+      5.413468
+    ],
+    "vampirism:hunter_hat_head_0": [
+      2199,
+      0.8764657
+    ],
+    "vampirism:hunter_hat_head_1": [
+      2199,
+      0.8764657
+    ],
+    "vampirism:vampire_clothing_crown": [
+      2663,
+      0.0376
+    ],
+    "vampirism:vampire_clothing_hat": [
+      2663,
+      0.0376
+    ]
+  }
+}

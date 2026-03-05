@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+      "alexscaves:candy_cane_block",
+      "alexscaves:chiseled_candy_cane_block",
+      "alexscaves:stripped_candy_cane_block",
+      "alexscaves:candy_cane_pole",
+      "alexscaves:stripped_candy_cane_pole"
+    ]
+  }

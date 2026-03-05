@@ -1,0 +1,52 @@
+
+[Display]
+	#displays the EVIL numbers
+	showManaAmount = true
+
+[Dandelifeon]
+	#no longer wipe all cells out when consuming
+	skipDandelifeonClearBoard = true
+	#custom rule bitset for new cells
+	#Range: 0 ~ 255
+	ruleLifeGameNew = 8
+	#custom rule bitset for keeping cells
+	#Range: 0 ~ 255
+	ruleLifeGameKeep = 12
+
+[Entropinnyum]
+	#accepts TNTs from dupers
+	skipEntropinnyumDuperCheck = true
+	#accepts TNTs inside liquids
+	enableEntropinnyumUnderwater = true
+
+[Narslimmus]
+	#accepts ALL slimes
+	skipNarslimmusNaturalCheck = true
+
+[Exoflame]
+	#heats Blaze Burner blocks from Create
+	heatsBlazeBurner = true
+
+[ManaPylonPump]
+	#makes Mana Pylons extract mana from the pool below and dump to wand-bound mana pool
+	enablesManaPylonPump = true
+	#max distance between the pylon and the pool bound
+	#Range: 1 ~ 256
+	pylonPumpMaxRange = 64
+	#how many mana points will be extracted each tick (for reference, each spark pair has speed of 1000)
+	#Range: > 1
+	pylonPumpSpeed = 10000
+	#how much ratio of mana will vanish during the transport
+	#Range: 0.0 ~ 1.0
+	pylonPumpLossRatio = 0.1
+	#displays extra particles when the pylon pump works
+	enablesPylonPumpFx = true
+	#how thick the pump particle line will be
+	#Range: 1 ~ 10
+	pylonPumpFxStrength = 3
+
+[Interop]
+	#how many mana points each FE point equals
+	#Range: 0.0 ~ 1.0E10
+	MekasuitConversionRatio = 1.0
+

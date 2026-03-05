@@ -1,0 +1,13 @@
+{
+  "type": "create_fluid:freeze",
+  "ingredients": [
+    {
+      "item": "alexscaves:block_of_chocolate"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:chocolate_ice_cream_scoop"
+    }
+  ]
+}

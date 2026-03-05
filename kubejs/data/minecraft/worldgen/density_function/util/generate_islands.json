@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:range_choice",
+    "input": "minecraft:util/ocean_biomes",
+    "max_exclusive": 10,
+    "min_inclusive": -1.0,
+    "when_in_range": {
+        "type": "range_choice",
+        "input": "minecraft:util/island_noise",
+        "max_exclusive": 0.1,
+        "min_inclusive": 0,
+        "when_in_range": "minecraft:util/coastal_biomes",
+        "when_out_of_range": "minecraft:util/land_biomes"
+    },
+    "when_out_of_range": "minecraft:util/ocean_biomes"
+}

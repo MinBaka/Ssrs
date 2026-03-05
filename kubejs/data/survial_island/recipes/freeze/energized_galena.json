@@ -1,0 +1,18 @@
+{
+  "type": "create_fluid:freeze",
+  "ingredients": [
+    {
+      "item": "alexscaves:energized_galena_neutral"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "alexscaves:energized_galena_azure"
+    },
+    {
+      "chance": 0.5,
+      "item": "alexscaves:energized_galena_scarlet"
+    }
+  ]
+}

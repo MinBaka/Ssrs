@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "hopo:portal_lush",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 30,
+    "salt": 1646207470
+  }
+}

@@ -1,0 +1,32 @@
+ServerEvents.recipes(evnet=>{
+    evnet.custom({
+        "type": "enderio:shaped_entity_storage",
+        "category": "misc",
+        "key": {
+          "B": {
+            "item": "enderio:broken_spawner"
+          },
+          "C": {
+            "item": "enderio:ensouled_chassis"
+          },
+          "I": {
+            "tag": "forge:ingots/soularium"
+          },
+          "V": {
+            "tag": "forge:gems/vibrant_crystal"
+          },
+          "Z": {
+            "item": "enderio:z_logic_controller"
+          }
+        },
+        "pattern": [
+          "IBI",
+          "ICI",
+          "VZV"
+        ],
+        "result": {
+          "item": "enderio:powered_spawner"
+        },
+        "show_notification": true
+      })
+})

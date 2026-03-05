@@ -1,0 +1,16 @@
+{
+  "type": "create_fluid:freeze",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "alexscaves:vanilla_ice_cream_scoop"
+    }
+  ]
+}

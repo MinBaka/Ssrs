@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "hopo:portal_nether",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 38,
+    "salt": 23248003
+  }
+}
