@@ -1,7 +1,0 @@
-{
-  "name": "create_armorer.attachment.muzzle_pipe.name",
-  "display": "create_armorer:muzzle_pipe_display",
-  "data": "create_armorer:muzzle_pipe_data",
-  "tooltip": "create_armorer.tooltip.attachment.muzzle_pipe",
-  "type": "muzzle"
-}
