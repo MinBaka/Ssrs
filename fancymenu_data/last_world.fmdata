@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = /home/min/Minecraft/.minecraft/versions/Ssrs客户端(增强版)/saves/TSET
-}
-
