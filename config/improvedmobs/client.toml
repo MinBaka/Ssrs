@@ -1,0 +1,24 @@
+# Gui Configs (图形界面/GUI 配置)
+[gui]
+    # Range: > 0 (范围：大于 0)
+    "Gui X" = 5  # 界面在屏幕上的水平 X 坐标
+    
+    # Range: > 0 (范围：大于 0)
+    "Gui Y" = 5  # 界面在屏幕上的垂直 Y 坐标
+    
+    # Textformatting codes for the display of the difficulty 
+    # (用于显示游戏难度的文本颜色与格式代码)
+    # Allowed Values: (允许填写的值：包含黑、深蓝、深红等颜色，以及乱码、粗体、斜体、重置等样式代码)
+    "Difficulty color" = "DARK_PURPLE"  # 难度文本颜色 = "深紫色"
+    
+    # Scaling of the difficulty text (难度文本的缩放大小)
+    # Range: 0.0 ~ 1.7976931348623157E308 (范围：0.0 到极大的数字)
+    "Text Scale" = 1.0  # 文本缩放比例 = 1.0（默认原大小）
+    
+    # Show the the difficulty text (是否在屏幕上显示游戏难度文本)
+    "Show Difficulty" = false  # 显示难度 = true (开启)
+    
+    # Relative location of the difficulty text in regards to the screen.
+    # (难度文本在屏幕上的相对显示位置)
+    # Allowed Values: TOPRIGHT (右上), TOPLEFT (左上), BOTTOMRIGHT (右下), BOTTOMLEFT (左下)
+    "Difficulty location" = "TOPLEFT"  # 难度显示位置 = "左上角"
